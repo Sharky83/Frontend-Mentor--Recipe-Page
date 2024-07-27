@@ -35,14 +35,11 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
 
 
 ### What I learned
 
-First attempt of mentour, after using web.dev and kevin powell tutorialls for html and css. Also had to learn the basics of git and github to submit.
+First attempt of a frontend mentour challenge, after using web.dev and KevinPowell tutorials for html and css. Also had to learn the basics of git and github withing VScode too.
 
 
 ### Continued development
@@ -55,7 +52,7 @@ Continue to develop html and css skills, and learn more of github. Then start co
 
 ## Author
 
-- Website - [Alex B](https://TBA)
+- Website - [Alex B](https://www.frontendmentor.io/profile/@Sharky83)
 - Frontend Mentor - [@Sharky83](https://www.frontendmentor.io/profile/@Sharky83)
 
 

@@ -26,8 +26,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Sharky83/Frontend-Mentor--Recipe-Page](https://github.com/Sharky83/Frontend-Mentor--Recipe-Page)
+- Live Site URL: [https://frontend-mentor-recipe-page-wheat.vercel.app/](https://frontend-mentor-recipe-page-wheat.vercel.app/)
 
 ## My process
 
@@ -42,7 +42,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### What I learned
 
-First attempt of mentour, after using web.dev and kevin powel tutorialls for html and css. also learnt the very basics of github to submit this.
+First attempt of mentour, after using web.dev and kevin powell tutorialls for html and css. Also had to learn the basics of git and github to submit.
 
 
 ### Continued development
@@ -55,7 +55,7 @@ Continue to develop html and css skills, and learn more of github. Then start co
 
 ## Author
 
-- Website - [Alex B](https://www.your-site.com)
+- Website - [Alex B](https://TBA)
 - Frontend Mentor - [@Sharky83](https://www.frontendmentor.io/profile/@Sharky83)
 
 
